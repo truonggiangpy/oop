@@ -35,10 +35,10 @@ namespace KeThua
             {
             giang = 2;
         }
-
+        //haha
             public double GetCost()
             {
-                return GetArea() * 70;
+                return GetArea() * 70+ this.giang;
             }
 
             public void Display()
