@@ -45,7 +45,7 @@ namespace KeThua
             {
                base.Display();
                 Console.WriteLine("Cost: {0}", GetCost());
-            }
+            }//haha
         }
     class Program
     {
