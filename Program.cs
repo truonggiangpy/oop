@@ -54,6 +54,6 @@ namespace KeThua
             Tabletop tabletop = new Tabletop(4.5, 7.5);
             tabletop.Display();
             Console.ReadLine();
-        }
+        }//hahahahahadđ
     }
 }
