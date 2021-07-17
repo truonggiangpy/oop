@@ -11,7 +11,7 @@ namespace KeThua
         {
             protected double length;
             protected double width;
-
+            //haha
             public Rectangle(double l, double w)
             {
                 length = l;
