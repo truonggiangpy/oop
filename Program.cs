@@ -55,5 +55,6 @@ namespace KeThua
             tabletop.Display();
             Console.ReadLine();
         }//hahahahahadđ
+        //nhanh nguyen
     }
 }
