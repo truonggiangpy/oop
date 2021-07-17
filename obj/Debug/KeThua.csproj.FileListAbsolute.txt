@@ -1,0 +1,7 @@
+E:\c Sharp\OOP\KeThua\KeThua\bin\Debug\KeThua.exe.config
+E:\c Sharp\OOP\KeThua\KeThua\bin\Debug\KeThua.exe
+E:\c Sharp\OOP\KeThua\KeThua\bin\Debug\KeThua.pdb
+E:\c Sharp\OOP\KeThua\KeThua\obj\Debug\KeThua.csprojAssemblyReference.cache
+E:\c Sharp\OOP\KeThua\KeThua\obj\Debug\KeThua.csproj.CoreCompileInputs.cache
+E:\c Sharp\OOP\KeThua\KeThua\obj\Debug\KeThua.exe
+E:\c Sharp\OOP\KeThua\KeThua\obj\Debug\KeThua.pdb
