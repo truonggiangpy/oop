@@ -56,5 +56,6 @@ namespace KeThua
             Console.ReadLine();
         }//hahahahahadđ
         //nhanh nguyen
+        // cap nhat nguyen lan 2
     }
 }
